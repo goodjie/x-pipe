@@ -28,7 +28,7 @@ import com.ctrip.xpipe.zk.impl.TestZkClientTest;
 
 /**
  * @author wenchao.meng
- *
+ * 这里是一个测试
  * May 17, 2016 2:09:41 PM
  */
 @RunWith(Suite.class)
